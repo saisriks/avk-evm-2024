@@ -1,3 +1,5 @@
+This was the Admin Portal cum Vote Polling web app used by 600+ students to Elect the Student Council Members at Adarsh Vidya Kendra.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
